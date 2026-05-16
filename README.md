@@ -1,11 +1,7 @@
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true&customColorList=7,45F2ED,B24CF0,E726FB" />
-</div>
 
-# 🥶 ZONA 11
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![Banner](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
+![ZONA 11 Banner](Copilott_20260516_183229.png)
 
 
 <!--raya horizontal de colores-->
