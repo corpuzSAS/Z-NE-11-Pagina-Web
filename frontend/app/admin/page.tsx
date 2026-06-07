@@ -1,5 +1,6 @@
 import { getServerSession } from 'next-auth'
 import { redirect } from 'next/navigation'
+import LogoutButton from './LogoutButton'
 
 export default async function AdminPage() {
   const session = await getServerSession()
@@ -12,6 +13,7 @@ export default async function AdminPage() {
     <div style={{ padding: '40px' }}>
       <h1>Panel Administrador</h1>
       <p>Bienvenido, {session.user?.email}</p>
+      <LogoutButton />
     </div>
   )
 }
